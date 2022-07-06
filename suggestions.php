@@ -12,7 +12,7 @@
   I would appreciate it if you kept this notice while you shared this with other people. I believe this method of having
   suggestions in a trello to-do list is far easier than the standard suggestion format where you can't "check off" a suggestion to signify it's been done.
   
-  Tutorial video:
+  Tutorial video: https://www.youtube.com/watch?v=FIQ1O1zgFXw
   
   Credits to https://stackoverflow.com/a/71282217 for Discord webhook authentication code
 																																	  
