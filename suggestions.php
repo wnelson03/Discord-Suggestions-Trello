@@ -7,7 +7,7 @@
  |_| \_|_____|_____|____/ \___/|_| \_|  \____| |_| |____/|_____|_| \_\____/|_____\____|\___/|_| \_\___| |_|   |_|   |_____|_____\____|
                                                                                                                                       
 																																	  
-  Authored by Nelson Cybersecurity LLC - behind projects such as https://keyauth.win and https://letoa.me
+  Authored by Nelson Cybersecurity LLC - behind projects such as https://keyauth.cc and https://letoa.me
 
   I would appreciate it if you kept this notice while you shared this with other people. I believe this method of having
   suggestions in a trello to-do list is far easier than the standard suggestion format where you can't "check off" a suggestion to signify it's been done.
